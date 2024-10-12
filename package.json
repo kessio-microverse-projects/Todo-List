@@ -41,7 +41,7 @@
     "webpack-dev-server": "^4.9.3"
   },
   "dependencies": {
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.2.0",
     "lodash": "^4.17.21"
   }
 }
